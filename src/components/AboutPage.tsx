@@ -31,29 +31,11 @@ export const AboutPage = React.memo(() => {
 
   const team = [
     {
-      name: "Andi Wijaya",
+      name: "RD Moch Reikhan",
       role: "CEO & Pendiri",
       bio: "10+ tahun pengalaman di pemasaran digital dan strategi bisnis untuk UMKM dan perusahaan lokal.",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.1.0&auto=format&fit=crop&w=400&q=80"
+      image: "https://instagram.fbdo1-3.fna.fbcdn.net/v/t51.2885-19/502525797_18068581624971404_4929214643431659504_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbdo1-3.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QGPK1ObIRPnt5wGRLIPGWlO58LD3DpCTHw18iGauEmqpJJ3L9CyNKGvkk4QO_dOotI&_nc_ohc=WeAOzWXCNYwQ7kNvwGmXs_A&_nc_gid=pqBoX2IZMUHdRdHGJcNHpQ&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Afb120U__PBDNQn9XbPA_Y0TVQUWbohf-ykxfHo9i5Rdfw&oe=68DC6270&_nc_sid=7d3ac5"
     },
-    {
-      name: "Siti Rahma",
-      role: "Creative Director",
-      bio: "Desainer berpengalaman yang ahli menciptakan identitas merek yang berkesan.",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.1.0&auto=format&fit=crop&w=400&q=80"
-    },
-    {
-      name: "Budi Prasetyo",
-      role: "Head of Strategy",
-      bio: "Spesialis strategi berbasis data yang fokus pada optimasi performa dan ROI.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.1.0&auto=format&fit=crop&w=400&q=80"
-    },
-    {
-      name: "Dewi Lestari",
-      role: "VP Operasional",
-      bio: "Ahli operasional yang memastikan pengiriman proyek tepat waktu dan memuaskan klien.",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.1.0&auto=format&fit=crop&w=400&q=80"
-    }
   ];
 
   const milestones = [
